@@ -1,3 +1,0 @@
-curl 'http://bob%40email.com:secret@localhost:8000/basic-authentication-per-request'
-curl 'http://localhost:8000/basic-authentication-per-request' -H 'Authorization: Basic Ym9iQGVtYWlsLmNvbTpzZWNyZXQ='
-curl 'http://localhost:8000/basic-authentication-per-request' -H 'Authorization: Basic Ym9iQGVtYWlsLmNvbTpzZWNyZXQ='

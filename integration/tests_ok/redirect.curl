@@ -1,2 +1,0 @@
-curl 'http://localhost:8000/redirect'
-curl 'http://localhost:8000/redirected'

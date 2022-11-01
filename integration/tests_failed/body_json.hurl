@@ -1,4 +1,0 @@
-POST unused
-{
-    "success": {{success}}
-}
